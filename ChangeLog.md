@@ -1,18 +1,21 @@
 # ARM Prometheus ChangeLog
 
-
-## Version 1.8.0 (02/25/2019)
+## Version 1.10.0 (02/25/2019)
 
 - Add Prometheus 2.6.1
 - Refactoring GitlabCI stages
 - Migrate to Balenalib Alpine as Docker base image
 
-## Version 1.8.0 (2018-11-05)
+## Version 1.9.0 (2018-11-05)
 
 - Use Prometheus 2.4.x
 - Migrate to Balena OS base images
 
-Version 1.7.0 (2018-09-06)
+## Version 1.8.0 (2018-09-06)
+
+- Change GitlabCI build
+
+## Version 1.7.0 (2018-09-06)
 
 - Add Prometheus 2.3.x
 
