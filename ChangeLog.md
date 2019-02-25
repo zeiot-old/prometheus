@@ -1,5 +1,9 @@
 # ARM Prometheus ChangeLog
 
+## Version 1.11.0 (02/25/2019)
+
+- Add Prometheus 2.7.1
+
 ## Version 1.10.0 (02/25/2019)
 
 - Add Prometheus 2.6.1
